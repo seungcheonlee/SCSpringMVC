@@ -30,3 +30,8 @@ My spring MVC project.
 - pring에서는 body와 헤더 정보, 상태 코드 등을 담을 수 있는 ResponseEntity가 제공된다. ResponseEntity로 추가적인 정보를 설정할 수 있다. 예를 들면 존재하지 않는 id를 가진 user를 조회하면 404 상태 코드를 return 하도록 작성하였다. 사진에 있는 HttpStatus.BAD_REQUEST의 404에러와 같은 상태 코드를 return 할 수 있다. view 로 전달할 때에는 e.getMessage() 내장 함수를 사용한다. ResponseEntity는 일반적인 객체 뿐만 아니라 List와 Map 등 다양한 객체들을 담아서 전달이 가능하기에 게시판 작업에서 매우 용이하다. 단 한번의 HashMap이나 객체를 전달할 때에는 List Map이 유용하지만 이번 게시판 작업에서는 Rest API를 사용하였다.
 
 5. 결과 화면
+<img width="1036" alt="스크린샷 2022-02-18 오후 7 39 27" src="https://user-images.githubusercontent.com/85739056/154668016-06a0f4e0-4fd6-4b0a-b1e3-c832b0f400d7.png">
+<img width="983" alt="스크린샷 2022-02-18 오후 7 38 46" src="https://user-images.githubusercontent.com/85739056/154668032-fc99a50d-a276-4970-a093-6b2d63a121d9.png">
+<img width="964" alt="스크린샷 2022-02-18 오후 7 38 27" src="https://user-images.githubusercontent.com/85739056/154668035-83e155dd-89a8-47ee-96bd-c106bd01e682.png">
+<img width="1353" alt="스크린샷 2022-02-18 오후 7 38 19" src="https://user-images.githubusercontent.com/85739056/154668041-7d93eb3f-1218-41fb-865b-5776596dd119.png">
+
