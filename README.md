@@ -19,6 +19,7 @@ My spring MVC project.
 <img width="308" alt="스크린샷 2022-02-18 오후 12 20 06" src="https://user-images.githubusercontent.com/85739056/154611478-ea76bdca-b5b8-4aca-9619-eb98a21c498e.png">
 
 4. 주요 기능 로직
+<img width="509" alt="스크린샷 2022-02-18 오후 2 31 22" src="https://user-images.githubusercontent.com/85739056/154624662-77902235-33ec-445c-b7de-205e1abd1133.png">
 - read.jsp에서 댓글 수정하기를 실시간 댓글 수정으로 사용하기 위해서 ajax로 구현하였음. 클라이언트가 id값이 replyModBtn 인 버튼을 클릭하면 댓글 수정을 할 수 있으며 replytext에 기재된 html 내용과 modal-title에 있는 글제목 값을 변수로 담아 url:'/ex/replies/'+rno 의 경로에 있는 컨트롤러로 보내는 MVC 구조.
-- 
+
 
