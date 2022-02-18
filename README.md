@@ -24,3 +24,4 @@ My spring MVC project.
 
 <img width="875" alt="스크린샷 2022-02-18 오후 2 32 31" src="https://user-images.githubusercontent.com/85739056/154625172-b310a2c5-12d6-4e13-873d-2eb2a2d92146.png">
 - html option 태그와 jstl의 <c:out> 태그를 이용하여 pagemaker의 searchtype에 맞추어 title, content, writer, title or content 등을 이용하여 검색 옵션을 추가함.
+
