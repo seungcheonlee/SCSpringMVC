@@ -14,3 +14,5 @@ My spring MVC project.
 
 3. 프로젝트 구조
 - 스샷 첨부
+<img width="324" alt="스크린샷 2022-02-18 오후 12 20 20" src="https://user-images.githubusercontent.com/85739056/154611462-1ff67e5a-b480-45ba-85e8-7fcad6725575.png">
+<img width="308" alt="스크린샷 2022-02-18 오후 12 20 06" src="https://user-images.githubusercontent.com/85739056/154611478-ea76bdca-b5b8-4aca-9619-eb98a21c498e.png">
